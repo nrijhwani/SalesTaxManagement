@@ -56,7 +56,7 @@ Updated Configuration:
 java.util.logging.ConsoleHandler.level = OFF
 ````
 
-##Assumptions
+## Assumptions
 
 * To run this application we need to pass .txt file as input with sample format as:
 
@@ -112,7 +112,7 @@ So total tax on this product would be 14.30
 * Currently we have used ENUM to store non-taxable products (NonTaxableProducts.java).
 * To make a product as non-taxable, we will have to update NonTaxableProducts.java.
 
-##Future Scope
+## Future Scope
 * As this is simple Java application, we can extend this application to create small micro-service in Spring boot.
 * We can also implement swagger to expose APIs to clients.
 * We can perform graceful exception handling using controller advice.
