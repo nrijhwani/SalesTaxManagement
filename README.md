@@ -44,6 +44,17 @@ Maven
 6. We are reading input from a .txt file and parsing the input in our required format for further operations.
 7. Sample .txt file is present inside /src/main/resources folder.
 8. We have also implemented JavaDoc.
+9. Logging level is currently set to 'INFO', we can change logging level in resources/logging.properties. Change below properties:
+
+````
+Current Configuration:
+.level= INFO
+java.util.logging.ConsoleHandler.level = INFO
+
+Updated Configuration:
+.level= OFF
+java.util.logging.ConsoleHandler.level = OFF
+````
 
 ## Assumptions
 
