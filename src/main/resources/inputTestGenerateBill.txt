@@ -1,0 +1,57 @@
+Input 1:
+1 book at 12.49
+1 music CD at 14.99
+1 chocolate bar at 0.85
+
+Input 2:
+2 imported box of chocolates at 10.00
+1 imported bottle of perfume at 47.50
+
+Input 3:
+1 imported bottle of perfume at 27.99
+1 bottle of perfume at 18.99
+1 packet of headache pills at 9.75
+1 box of imported chocolates at 11.25
+
+Input 4:
+15 imported bottle of perfume at 30.50
+1 bottle of perfume at 18.99
+10 packet of headache pills at 9.75
+1 box of imported chocolates at 11.25
+
+
+Input 5:
+1 imported dozen of apples at 50.00
+1 kg mangoes at 12.99
+
+Input 6:
+1 imported bottle of perfume at 17.99
+1 bottle of perfume at 18.99
+1 packet of tablets at 2.75
+1 box of imported chocolates at 11.25
+2 kg mangoes at 12.99
+3 kg potatoes at 12.99
+
+Input 7:
+1 imported refrigerator at 249.99
+
+Input 8:
+1 imported bottle of beer at 6.99
+1 bottle of whiskey at 12.99
+
+Input 9:
+2 imported bottle of perfume at 45.99
+1 box of imported chocolates at 18.25
+
+Input 10:
+1 imported bottle of perfume at 27.99
+1 bottle of perfume at 18.99
+1 packet of headache pills at 9.75
+1 box of chocolates at 11.25
+1 dozen bananas at 9.25
+1 imported talc powder at 14.25
+1 kg meat at 4.99
+1 table at 100.00
+1 Iphone 11 at 999.99
+1 laptop at 799.99
+1 camera at 345.99
